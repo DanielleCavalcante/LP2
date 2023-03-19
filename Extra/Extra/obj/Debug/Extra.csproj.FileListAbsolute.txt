@@ -1,0 +1,10 @@
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\obj\Debug\Extra.csproj.AssemblyReference.cache
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\obj\Debug\Extra.Form1.resources
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\obj\Debug\Extra.Properties.Resources.resources
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\obj\Debug\Extra.csproj.GenerateResource.cache
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\obj\Debug\Extra.csproj.CoreCompileInputs.cache
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\bin\Debug\Extra.exe.config
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\bin\Debug\Extra.exe
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\bin\Debug\Extra.pdb
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\obj\Debug\Extra.exe
+D:\DENILCE\Aula 3 - Online - Atividade Extra\Extra\Extra\obj\Debug\Extra.pdb
