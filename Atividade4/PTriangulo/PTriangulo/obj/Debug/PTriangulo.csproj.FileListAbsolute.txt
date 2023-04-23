@@ -1,0 +1,10 @@
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe.config
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\bin\Debug\PTriangulo.pdb
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.AssemblyReference.cache
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Form1.resources
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Properties.Resources.resources
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.GenerateResource.cache
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.CoreCompileInputs.cache
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.exe
+D:\DENILCE\Atividade4\PTriangulo\PTriangulo\obj\Debug\PTriangulo.pdb
