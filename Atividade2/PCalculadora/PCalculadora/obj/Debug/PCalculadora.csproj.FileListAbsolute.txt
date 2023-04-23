@@ -1,0 +1,10 @@
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe.config
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\bin\Debug\PCalculadora.pdb
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csprojAssemblyReference.cache
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Form1.resources
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Properties.Resources.resources
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.GenerateResource.cache
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.exe
+C:\Users\0030482213030\Desktop\PCalculadora\PCalculadora\obj\Debug\PCalculadora.pdb
