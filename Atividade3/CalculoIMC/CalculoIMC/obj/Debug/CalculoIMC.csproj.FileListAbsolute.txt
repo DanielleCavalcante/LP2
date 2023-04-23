@@ -1,0 +1,10 @@
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csprojAssemblyReference.cache
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Form1.resources
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\0030482213030\Desktop\CalculoIMC\CalculoIMC\obj\Debug\CalculoIMC.pdb
