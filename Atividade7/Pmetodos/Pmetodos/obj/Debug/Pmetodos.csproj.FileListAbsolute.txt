@@ -1,0 +1,28 @@
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe.config
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\bin\Debug\Pmetodos.pdb
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csprojResolveAssemblyReference.cache
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmPrincipal.resources
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\obj\Debug\Pmetodos.Properties.Resources.resources
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.GenerateResource.Cache
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\obj\Debug\Pmetodos.exe
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\obj\Debug\Pmetodos.pdb
+C:\Users\0030482213036\Documents\Nova pasta\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio2.resources
+C:\Users\0030482213036\Documents\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe.config
+C:\Users\0030482213036\Documents\Pmetodos\Pmetodos\obj\Debug\Pmetodos.exe
+C:\Users\0030482213036\Documents\Pmetodos\Pmetodos\obj\Debug\Pmetodos.pdb
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.AssemblyReference.cache
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmPrincipal.resources
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio2.resources
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio3.resources
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio4.resources
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.Properties.Resources.resources
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.GenerateResource.cache
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.CoreCompileInputs.cache
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe.config
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\bin\Debug\Pmetodos.pdb
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.exe
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.pdb
+C:\Users\Goku\Documents\2_Semestre\VB\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio5.resources
